@@ -3,6 +3,7 @@
 Atomic is the best AIO-bot which includes Solana Sniper, Solana copy-trading
 
 
+![image (2)](https://github.com/user-attachments/assets/d3fab3d9-86f4-4e32-8f04-79198a9fefc6)
 
 
 
