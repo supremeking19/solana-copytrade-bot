@@ -30,7 +30,7 @@ Atomic is the best AIO-bot which includes Solana Sniper, Solana copy-trading
 **Atomic** -  designed to automate trading on the Solana blockchain using the Raydium  moonshot pumpfun
 Built by traders for traders.
 
-We've closely observed the shift in trading activity from Ethereum to Solana. After months of quiet development, we're proud to introduce QuantumBot — a powerful tool designed to elevate your trading strategy on Solana.
+We've closely observed the shift in trading activity from Ethereum to Solana. After months of quiet development, we're proud to introduce atomic — a powerful tool designed to elevate your trading strategy on Solana.
 
 
 # V1 Features
